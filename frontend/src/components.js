@@ -1013,7 +1013,7 @@ export const Contact = () => {
                     <p className="text-gray-600">
                       OneEXIM Export House<br />
                       123 Export Plaza, International Trade Center<br />
-                      Mumbai, Maharashtra 400001, India
+                      Lucknow, UP 226001, India
                     </p>
                   </div>
                 </div>
@@ -1026,7 +1026,7 @@ export const Contact = () => {
                   <div>
                     <h3 className="text-xl font-semibold text-gray-800 mb-2">Phone Numbers</h3>
                     <p className="text-gray-600">
-                      +91-98765-43210 (Primary)<br />
+                      +91-9621892541 (Primary)<br />
                       +91-98765-43211 (Export Desk)<br />
                       +1-555-123-4567 (International)
                     </p>
@@ -1772,8 +1772,8 @@ export const Footer = ({ setCurrentPage, setShowLoginModal }) => {
           <div>
             <h3 className="text-xl font-semibold mb-6">Contact OneEXIM</h3>
             <div className="space-y-3 text-gray-400">
-              <p>📍 OneEXIM Export House, Mumbai, India</p>
-              <p>📞 +91-98765-43210</p>
+              <p>📍 OneEXIM Export House, Lucknow, UP, India</p>
+              <p>📞 +91-9621892541</p>
               <p>✉️ info@oneexim.in</p>
               <p>🕒 Mon-Fri: 9 AM - 6 PM IST</p>
             </div>
